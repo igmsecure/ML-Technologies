@@ -9,4 +9,6 @@
 3. [Подготовка обучающей и тестовой выборки, кросс-валидация и подбор гиперпараметров на примере метода ближайших соседей.](https://github.com/igmsecure/ML-Technologies/tree/3-Preparing-Sample)
 4. [Линейные модели, SVM и деревья решений.](https://github.com/igmsecure/ML-Technologies/tree/4-LinearModels%26SVMs)
 5. [Ансамбли моделей машинного обучения.](https://github.com/igmsecure/ML-Technologies/tree/5-EnsemblesML)
+6. [Ансамбли моделей машинного обучения. Часть 2.]()
+
 ---
